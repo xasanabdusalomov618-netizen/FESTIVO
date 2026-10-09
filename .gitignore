@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+
+# typescript
+*.tsbuildinfo
+
+# runtime data (local JSON database, created on first run)
+data/
+
+# misc
+.DS_Store
+npm-debug.log*
+.env*.local
